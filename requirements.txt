@@ -1,0 +1,6 @@
+pandas
+streamlit
+scikit-learn
+numpy
+
+#pip install -r requirement.txt, if streamlit is not working
